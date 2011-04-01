@@ -1,0 +1,7 @@
+Google Voice SMS Sender
+usage:  sms.py RECIPIENT
+
+   -h, --help      Usage information
+   RECIPIENT       Name that SMS will be sent to
+
+Edit "addressbook.json" to map a simple name (no spaces!) to a phone number AAANNNNNNN where AAA = area code and NNNNNNN = 7 digit telephone number).
